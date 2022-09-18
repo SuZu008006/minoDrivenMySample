@@ -1,3 +1,5 @@
+package chapter08_tightCoupling.good
+
 class RegularDiscountedPrice {
     private val DISCOUNT_AMOUNT: Int = 300
     var amount: Int = 0

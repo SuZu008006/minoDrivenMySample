@@ -1,3 +1,5 @@
+package chapter08_tightCoupling.bad
+
 class DiscountManager {
     var totalPrice = 0
 
